@@ -1,3 +1,3 @@
-+ [Archive Bit](archive_bit)
-+ [Keepalive Messages](keepalive_messages)
-+ [Network Printer](network_printer)
++ [Archive Bit](archive-bit)
++ [Keepalive Messages](keepalive-messages)
++ [Network Printer](network-printer)
