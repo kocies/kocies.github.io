@@ -1,4 +1,4 @@
-[<<ย้อนไปหน้าหลัก](README.md)
+[<<Back to menu](README.md)
 
 # การสำรองข้อมูล (Backup)
 ## 9.5.6 Back up Files with File History
@@ -103,5 +103,6 @@
 
 **Volume**  
 : พื้นที่จัดเก็บข้อมูลในไดรฟ์
+
 ---
-[<<ย้อนไปหน้าหลัก](README.md)
+[<<Back to menu](README.md)
