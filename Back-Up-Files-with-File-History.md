@@ -1,7 +1,7 @@
 # การสำรองข้อมูล (Backup)
 ## 9.5.6 Back up Files with File History
 
-![Lab](9.png)
+![TH](Lab/19.png)
 
 ### คำอธิบาย
 ใน Windows 10 มีฟีเจอร์ File History  
@@ -21,45 +21,45 @@
 
 ## ขั้นตอนการทำงาน
 
-![Lab](21.png)
+![TH](Lab/21.png)
 
 1. คลิกปุ่ม **Start** แล้วเลือก **Settings**  
-   ![Lab](3.png)
+   ![TH](Lab/3.png)
 
 2. เลือกเมนู **Update & Security**  
-   ![Lab](4.png)
+   ![TH](Lab/4.png)
 
 3. เลือกเมนู **Backup**  
-   ![Lab](5.png)
+   ![TH](Lab/5.png)
 
 4. คลิก **Add a drive**  
-   ![Lab](6.png)
+   ![TH](Lab/6.png)
 
 5. เลือกไดรฟ์ **Backup (E:)**  
-   ![Lab](7.png)  
-   ![Lab](9.png)
+   ![TH](Lab/7.png)  
+   ![TH](Lab/9.png)
 
 6. เปิดสวิตช์ **Automatically back up my files** เป็น **On**  
-   ![Lab](8.png)
+   ![TH](Lab/8.png)
 
 7. คลิก **More options**  
-   ![Lab](10.png)
+   ![TH](Lab/10.png)
 
 8. ตั้งค่า **Back up my files** จาก drop-down menu เป็น **Daily**  
-   ![Lab](11.png)
+   ![TH](Lab/11.png)
 
 9. ตั้งค่า **Keep my backups** จาก drop-down menu เป็น **6 months**  
-   ![Lab](12.png)
+   ![TH](Lab/12.png)
 
 10. ตั้งค่า **Back up these folders** แล้วคลิก **Add a folder**  
-    ![Lab](14.png)  
-    ![Lab](15.png)
+    ![TH](Lab/14.png)  
+    ![TH](Lab/15.png)
 
 11. เลือกโฟลเดอร์ **Data (D:)** แล้วคลิก **Choose this folder**  
-    ![Lab](16.png)
+    ![TH](Lab/16.png)
 
 12. คลิก **Back up now**  
-    ![Lab](17.png)
+    ![TH](Lab/17.png)
 
 13. ตรวจสอบความสมบูรณ์ของการ backup เมื่อเสร็จสิ้น
 
@@ -67,7 +67,7 @@
 
 ## ผลลัพธ์ LAB
 
-![Lab](18.png)
+![TH](Lab/18.png)
 
 ---
 
