@@ -18,47 +18,45 @@
 - สั่ง Make a backup now
 
 ---
-
 ## ขั้นตอนการทำงาน
-
    ![TH](Lab/21.png)
 1. คลิกปุ่ม **Start** แล้วเลือก **Settings**  
-
+---
    ![TH](Lab/3.png)
 2. เลือกเมนู **Update & Security**  
-
+---
    ![TH](Lab/4.png)
 3. เลือกเมนู **Backup**  
-
+---
    ![TH](Lab/5.png)
 5. คลิก **Add a drive**  
-
+---
    ![TH](Lab/6.png)
 6. เลือกไดรฟ์ **Backup (E:)**  
-
+---
    ![TH](Lab/7.png)  
    ![TH](Lab/9.png)
 7. เปิดสวิตช์ **Automatically back up my files** เป็น **On**  
-
+---
    ![TH](Lab/8.png)
 8. คลิก **More options**  
-
+---
    ![TH](Lab/10.png)
 10. ตั้งค่า **Back up my files** จาก drop-down menu เป็น **Daily**  
-
+---
    ![TH](Lab/11.png)
 12. ตั้งค่า **Keep my backups** จาก drop-down menu เป็น **6 months**  
-   
+---
    ![TH](Lab/12.png)
 13. ตั้งค่า **Back up these folders** แล้วคลิก **Add a folder**  
-
+---
    ![TH](Lab/14.png)  
    ![TH](Lab/15.png)
 14. เลือกโฟลเดอร์ **Data (D:)** แล้วคลิก **Choose this folder**  
-
+---
    ![TH](Lab/16.png)
 16. คลิก **Back up now**  
-    
+---
    ![TH](Lab/17.png)
 17. ตรวจสอบความสมบูรณ์ของการ backup เมื่อเสร็จสิ้น
 
