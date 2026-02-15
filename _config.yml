@@ -1,5 +1,4 @@
+title: KOCIES
 description: My personal page
-theme: jekyll-theme-primer
-
-# Force rebuild
-timestamp: 2025-01-01
+theme: minima
+markdown: kramdown
