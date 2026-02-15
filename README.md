@@ -12,3 +12,6 @@
 ### 🧪 Lab
 
 - [**Back up Files with File History**](Back-Up-Files-with-File-History.md)
+
+### 🎆 Git-Wrapped-2025
+- [Git-Wrapped-2025](Git-Wrapped-2025.md)
