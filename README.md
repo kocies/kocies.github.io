@@ -17,3 +17,9 @@
 
 ### 🎆 Git-Wrapped-2025
 - [Git-Wrapped-2025](Git-Wrapped-2025.md)
+
+---
+
+### 🔐 Web Security
+
+- [**Host Header Attack**](host-header-attack)
