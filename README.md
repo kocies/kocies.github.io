@@ -25,5 +25,11 @@
 - [**Host Header Attack**](host-header-attack)
 
 ---
+
 ### 📹 PDPA
 - [**CCTV**](P-D-P-A.md)
+
+---
+
+### 🎊 New Year 2026
+- [**Card New Year 2026!**](Card-New-Year-2026.md)
