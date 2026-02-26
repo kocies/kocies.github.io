@@ -33,3 +33,8 @@
 
 ### 🎊 New Year 2026
 - [**Card New Year 2026!**](Card-New-Year-2026.md)
+
+---
+
+### Zero Trust
+-[พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล(PDPA)](Zero-trust-PDPA.md)
