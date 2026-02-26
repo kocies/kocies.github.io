@@ -38,3 +38,8 @@
 
 ### Zero Trust
 -[พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล(PDPA)](Zero-trust-PDPA.md)
+
+---
+
+### Security control 
+-[Wall](Wall.md)
