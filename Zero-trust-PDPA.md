@@ -3,7 +3,7 @@
 พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล (PDPA)
 ---
 
-![PDPA](Lab/PDPAZT.png)
+![PDPA](Lab/PDPA-ZT.jpg)
 
 ---
 
